@@ -7,7 +7,7 @@ default Registration form & link on his Magento store
 via composer:
 `cd` to your magento webroot  
 1. `composer config repositories.magento2-disable-customer-registration vcs https://github.com/deved-it/magento2-disable-customer-registration`  
-2. `composer require deved/magento2-disable-customer-registration:dev-master`
+2. `composer require deved/magento2-disable-customer-registration:dev-master`  
 3. `bin\magento setup:upgrade`
 
 ## Configuration
