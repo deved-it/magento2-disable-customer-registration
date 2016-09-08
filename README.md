@@ -4,4 +4,13 @@ It can be very useful in cases where Admin wants to create account for customers
 default Registration form & link on his Magento store
 
 ## Installation
-Shortly available
+via composer:
+`cd` to your magento webroot  
+1. `composer config repositories.magento2-disable-customer-registration vcs https://github.com/deved-it/magento2-disable-customer-registration`  
+2. `composer require deved/magento2-disable-customer-registration:dev-master`
+3. `bin\magento setup:upgrade`
+
+## Configuration
+1. Open you Magento admin interface and go to stores->configuration->customers->customer configuration
+2. Under the "Create New Account Options" tab you will find the "Disable frontend customer registration" option 
+3. Enable this option to activate the plugin
