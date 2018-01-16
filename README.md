@@ -8,7 +8,8 @@ via composer:
 `cd` to your magento webroot  
 1. `composer config repositories.magento2-disable-customer-registration vcs https://github.com/deved-it/magento2-disable-customer-registration`  
 2. `composer require deved/magento2-disable-customer-registration:dev-master`  
-3. `bin\magento setup:upgrade`
+3. `bin\magento module:enable Deved_DisableRegistration`
+4. `bin\magento setup:upgrade`
 
 ## Configuration
 1. Open you Magento admin interface and go to stores->configuration->customers->customer configuration
