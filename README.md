@@ -1,6 +1,5 @@
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/deved-it/magento2-disable-customer-registration.svg?style=flat-square)](https://packagist.org/packages/deved-it/magento2-disable-customer-registration)
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Total Downloads](https://img.shields.io/packagist/dt/deved-it/magento2-disable-customer-registration.svg?style=flat-square)](https://packagist.org/packages/deved-it/magento2-disable-customer-registration)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/deved/magento2-disable-customer-registration.svg?style=flat-square)](https://packagist.org/packages/deved-it/magento2-disable-customer-registration)
+[![Total Downloads](https://img.shields.io/packagist/dt/deved/magento2-disable-customer-registration.svg?style=flat-square)](https://packagist.org/packages/deved-it/magento2-disable-customer-registration)
 
 
 ## Magento 2 disable customer registration
