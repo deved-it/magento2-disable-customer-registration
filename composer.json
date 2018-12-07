@@ -1,8 +1,8 @@
 {
   "name": "deved/magento2-disable-customer-registration",
-  "description": "Disable Customer registration",
+  "description": "Disable Customer Registration",
   "type": "magento2-module",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "license": "MIT",
   "authors": [
     {
