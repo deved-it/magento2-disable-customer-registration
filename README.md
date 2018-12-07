@@ -1,5 +1,6 @@
 [![Latest Stable Version](https://poser.pugx.org/deved/magento2-disable-customer-registration/v/stable)](https://packagist.org/packages/deved/magento2-disable-customer-registration)
 [![Total Downloads](https://poser.pugx.org/deved/magento2-disable-customer-registration/downloads)](https://packagist.org/packages/deved/magento2-disable-customer-registration)
+[![Build Status](https://travis-ci.org/deved-it/magento2-disable-customer-registration.svg?branch=master)](https://travis-ci.org/deved-it/magento2-disable-customer-registration)
 [![License](https://poser.pugx.org/deved/magento2-disable-customer-registration/license)](https://packagist.org/packages/deved/magento2-disable-customer-registration)
 
 
